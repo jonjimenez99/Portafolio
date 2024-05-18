@@ -4,8 +4,8 @@
 
 ## Sobre mí ℹ️
 
-- 🎓 **Edad:** 25 años
 - 💻 **Profesión:** Data Scientist
+- 💻 **Academia:** Contador Público con maestría en curso en "Analítica de datos"
 
 Soy un apasionado de la ciencia de datos y el Machine Learning. Disfruto explorando conjuntos de datos, descubriendo patrones y extrayendo conocimientos valiosos para la toma de decisiones.
 
