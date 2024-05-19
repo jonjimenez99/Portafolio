@@ -18,6 +18,8 @@ En este repositorio, comparto una variedad de proyectos en los que he trabajado.
 - [Proyecto 1: Sugerencia de carreras profesionales, a partir del puntaje obtenido en pruebas Saber 11](https://huggingface.co/spaces/jonjimenez/career_suggestion): Este proyecto fue creado utilizando técnicas de clusterización con k-means.
 - [Proyecto 2: Predicción de sobrevivencia de tripulantes del Titanic](https://github.com/jonjimenez99/Portafolio/blob/main/Classification_ML/Titanic_Classification.ipynb): Este proyecto fue creado con técnicas de Machine Learning de modelos supervisados, como Random Forest y Redes Neuronales. A su vez, contiene un análisis exploratorio y descriptivo de las variables.
 - [Proyecto 3: Fine Tunning de un modelo de Transformers para categorizar nombres](https://github.com/jonjimenez99/Portafolio/blob/main/LLM/2.%20BETO%20-%20Fine%20Tunning%20a%20LLM%20with%20tag%20by%20keywords%20(1).ipynb): Este proyecto fue creado con técnicas de Fine Tunning y optimización de cómputo con GPU. Utiliza la librería de Hugging Face para la obtención del modelo base y su posterior re-entrenamiento sobre los datos propios, junto con la medición de métricas del modelo final.
+- [Proyecto 4: Predicción de precio de acciones de Bancolombia](https://github.com/jonjimenez99/Portafolio/blob/main/Time%20Series/TIME_SERIES_BANCOLOMBIA_LIBRARY_YFINANCE.ipynb): Este proyecto fue creado con técnicas de series temporales y pruebas de estacionalidad para calcular el precio de las acciones de Bancolombia semana a semana. También se utilizó la librería de Yahoo Finanzas para automatizar la obtención del precio de las acciones.
+
 
 ¡No dudes en explorar los proyectos y déjame tus comentarios y sugerencias!
 
