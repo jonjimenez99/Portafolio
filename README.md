@@ -15,7 +15,8 @@ En este repositorio, comparto una variedad de proyectos en los que he trabajado.
 
 ## Proyectos destacados 🌟
 
-- [Proyecto 1: Sugerencia de carreras profesionales, a partir del puntaje obtenido en pruebas Saber 11]([link_al_proyecto_1](https://huggingface.co/spaces/jonjimenez/career_suggestion))
+- [Proyecto 1: Sugerencia de carreras profesionales, a partir del puntaje obtenido en pruebas Saber 11]([link_al_proyecto_1](https://huggingface.co/spaces/jonjimenez/career_suggestion):): Este proyecto fue creado utilizando técnicas de clusterización con k-means.
+- [Proyecto 2: Predicción de sobrevivencia de tripulantes del Titanic]([link_al_proyecto_1](https://github.com/jonjimenez99/Portafolio/blob/main/Classification_ML/Titanic_Classification.ipynb)): Este proyecto fue creado con técnicas de Machine Learning de modelos supervisados, como Random Forest y Redes Neuronales. A su vez, contiene un análisis exploratorio y descriptivo de las variables.
 
 ¡No dudes en explorar los proyectos y déjame tus comentarios y sugerencias!
 
