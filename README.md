@@ -15,8 +15,9 @@ En este repositorio, comparto una variedad de proyectos en los que he trabajado.
 
 ## Proyectos destacados 🌟
 
-- [Proyecto 1: Sugerencia de carreras profesionales, a partir del puntaje obtenido en pruebas Saber 11]([link_al_proyecto_1](https://huggingface.co/spaces/jonjimenez/career_suggestion):): Este proyecto fue creado utilizando técnicas de clusterización con k-means.
-- [Proyecto 2: Predicción de sobrevivencia de tripulantes del Titanic]([link_al_proyecto_1](https://github.com/jonjimenez99/Portafolio/blob/main/Classification_ML/Titanic_Classification.ipynb)): Este proyecto fue creado con técnicas de Machine Learning de modelos supervisados, como Random Forest y Redes Neuronales. A su vez, contiene un análisis exploratorio y descriptivo de las variables.
+- [Proyecto 1: Sugerencia de carreras profesionales, a partir del puntaje obtenido en pruebas Saber 11]([link_al_proyecto](https://huggingface.co/spaces/jonjimenez/career_suggestion):): Este proyecto fue creado utilizando técnicas de clusterización con k-means.
+- [Proyecto 2: Predicción de sobrevivencia de tripulantes del Titanic]([link_al_proyecto](https://github.com/jonjimenez99/Portafolio/blob/main/Classification_ML/Titanic_Classification.ipynb)): Este proyecto fue creado con técnicas de Machine Learning de modelos supervisados, como Random Forest y Redes Neuronales. A su vez, contiene un análisis exploratorio y descriptivo de las variables.
+- [Proyecto 3: Fine Tunning de un modelo de Transformers para categorizar nombres]([link_al_proyecto](https://github.com/jonjimenez99/Portafolio/blob/main/LLM/2.%20BETO%20-%20Fine%20Tunning%20a%20LLM%20with%20tag%20by%20keywords%20(1).ipynb)): Este proyecto fue creado con técnicas Fine Tunning y optimización de cómputo con GPU. Utiliza la librería de Hugging Face para la obtención del modelo base y su posterior re-entrenamiento sobre los datos propios, junto con la medición de métricas del modelo final.
 
 ¡No dudes en explorar los proyectos y déjame tus comentarios y sugerencias!
 
