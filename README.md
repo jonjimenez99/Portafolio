@@ -51,7 +51,7 @@ En este repositorio, comparto una variedad de proyectos en los que he trabajado.
 
 ## Contacto 📧
 
-Si quieres ponerte en contacto conmigo, ¡no dudes en contactarme!
+Si quieres ponerte en contacto conmigo, puedes hacerlo a través de:
 
 - 📧 **Correo electrónico:** andrescover.99@gmail.com
 - 💼 **LinkedIn:** [Jonny Jimenez](https://www.linkedin.com/in/jonny-andr%C3%A9s-jimenez-arbelaez-a893971a3/)
