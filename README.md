@@ -23,8 +23,6 @@ Soy un apasionado de la ciencia de datos y el Machine Learning. Disfruto explora
 - **Matplotlib y Seaborn:** Visualización de datos.
 - **Hugging Face Transformers:** Modelos de NLP y fine-tuning.
 
-![Tecnologías de Ciencia de Datos](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*PjExSXlsyWxT6RI5tnsRBw.png)
-
 ## ¿Qué encontrarás aquí? 📊
 
 En este repositorio, comparto una variedad de proyectos en los que he trabajado. Desde análisis exploratorio de datos hasta modelos de machine learning, aquí podrás encontrar una muestra de mi trabajo en el campo de la ciencia de datos.
@@ -46,8 +44,6 @@ En este repositorio, comparto una variedad de proyectos en los que he trabajado.
 ### [Proyecto 4: Predicción de precio de acciones de Bancolombia](https://github.com/jonjimenez99/Portafolio/blob/main/Time%20Series/TIME_SERIES_BANCOLOMBIA_LIBRARY_YFINANCE.ipynb)
 - **Descripción:** Análisis de series temporales y estacionalidad para predecir el precio de las acciones de Bancolombia.
 - **Tecnologías:** Python, Pandas, Matplotlib, yfinance.
-
-![Predicción de acciones](https://www.investopedia.com/thmb/6zV0svOHTX-x9M_fZZOZ-Jb5DdM=/2121x1193/smart/filters:no_upscale()/stock_chart_2-5bfc17c946e0fb0026028b2c.jpg)
 
 ## Contacto 📧
 
